@@ -1,24 +1,24 @@
 {
-    "name": "Branded-Userbot",
-    "description": "Branded-Userbot is an advanced & powerful multi-featured Telegram userbot.",
-    "logo": "https://te.legra.ph/file/11cfa74175b590014bd16.jpg",
+    "name": "Animal-Userbot",
+    "description": "Animal-Userbot is an advanced & powerful multi-featured Telegram userbot.",
+    "logo": "https://te.legra.ph/file/ec19cf227791a167abedc.jpg",
     "keywords": [
         "genius-userbot",
         "telegram-userbot",
         "telegram-music-bot",
         "telegram-video-bot"
     ],
-    "repository": "https://github.com/WCGKING/KINGUSERBOT",
+    "repository": "https://github.com/Githubsoniaryan/AnimalUserBot",
     "stack": "container",
     "env": {
         "API_ID": {
             "description": "Enter your api id here.",
-            "value": "",
+            "value": "25574934",
             "required": true
         },
         "API_HASH": {
             "description": "Enter your api hash here.",
-            "value": "",
+            "value": "029944bda8b241aacbb38b7eaa58d851",
             "required": true
         },
         "BOT_TOKEN": {
@@ -33,7 +33,7 @@
         },
         "MONGO_DB_URL": {
             "description": "Enter your mongodb url here.",
-            "value": "",
+            "value": mongodb+srv://BrandedSupportGroup:BRANDED_WORLD@cluster0.v4odcq9.mongodb.net/?retryWrites=true&w=majority"",
             "required": true
         },
         "LOG_GROUP_ID": {
