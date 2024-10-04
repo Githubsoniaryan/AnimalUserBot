@@ -21,12 +21,12 @@ async def help_menu_logo(answer):
             description=f"🥀 Open Help Menu Of Branded-Userbot ✨...",
             caption=f"""
 **🥀 Welcome To Help Menu Of
-Branded Userbot » {__version__} ✨...
+Animal Userbot » {__version__} ✨...
 
 Click On Below 🌺 Buttons To
 Get Userbot Commands.
 
-🌷Powered By : [Branded](https://t.me/BRANDED_PAID_CC).**
+🌷Powered By : [Animal](https://t.me/AnimalJanwarrrr).**
             """,
             reply_markup=InlineKeyboardMarkup(button),
         )
@@ -42,12 +42,12 @@ async def help_menu_text(answer):
             title="🥀 Help Menu ✨",
             input_message_content=InputTextMessageContent(f"""
 **🥀 Welcome To Help Menu Of
-Branded Userbot » {__version__} ✨...
+Animal Userbot » {__version__} ✨...
 
 Click On Below 🌺 Buttons To
 Get Userbot Commands.
 
-🌷Powered By : [Branded](https://t.me/BRANDED_PAID_CC).**""",
+🌷Powered By : [Animal](https://t.me/AnimalJanwarrrr).**""",
             disable_web_page_preview=True
             ),
             reply_markup=InlineKeyboardMarkup(button),
