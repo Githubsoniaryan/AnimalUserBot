@@ -1,4 +1,4 @@
-# Powered By // @BRANDED_PAID_CC //
+# Powered By // @AnimalJanwarrrr //
 
 __NAME__ = "VcBot"
 __MENU__ = """
