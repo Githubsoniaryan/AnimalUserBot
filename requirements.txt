@@ -1,6 +1,7 @@
 asyncio==3.4.3
 motor==2.5.1
 pyrogram-dev==2.1.0
+pymongo
 python-dotenv==1.0.1
 py-tgcalls==2.0.1
 tgcrypto==1.2.5
