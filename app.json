@@ -13,12 +13,12 @@
     "env": {
         "API_ID": {
             "description": "Enter your api id here.",
-            "value": "25574934",
+            "value": "26555626",
             "required": true
         },
         "API_HASH": {
             "description": "Enter your api hash here.",
-            "value": "029944bda8b241aacbb38b7eaa58d851",
+            "value": "b44c35c8a8a95fd85384e5a51de899b3",
             "required": true
         },
         "BOT_TOKEN": {
