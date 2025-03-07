@@ -46,7 +46,7 @@ COMMAND_PREFIXES = list(getenv("COMMAND_PREFIXES", ". !").split())
 
 # PM GUARD VARS
 PM_GUARD = bool(getenv("PM_GUARD", True))
-PM_GUARD_TEXT = getenv("PM_GUARD_TEXT", "**🥀 Hᴇʏ, I ᴀᴍ ᴀɴ ᴀᴅᴠᴀɴᴄᴇ & sᴜᴘᴇʀғᴀsᴛ ʜɪɢʜ ǫᴜᴀʟɪᴛʏ ᴜsᴇʀʙᴏᴛ.\n\n🌿 I ᴄᴀɴ'ᴛ ʟᴇᴛ ʏᴏᴜ ᴍᴇssᴀɢᴇ ᴍʏ ᴏᴡɴᴇʀ's ᴅᴍ ᴡᴜᴛʜᴏᴜᴛ ᴍʏ ᴏᴡɴᴇʀ's ᴘᴇʀᴍɪssɪᴏɴ.\n\n🌺 Mʏ ᴏᴡɴᴇʀ ɪs ᴏғғʟɪɴᴇ ɴᴏᴡ, ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ ᴜɴᴛɪʟ ᴍʏ ᴏᴡɴᴇʀ ᴀʟʟᴏᴡs ʏᴏᴜ.\n\n🍂 ᴘʟᴇᴀsᴇ ᴅᴏɴ'ᴛ sᴘᴀᴍ ʜᴇʀᴇ, ʙᴇᴄᴀᴜsᴇ sᴘᴀᴍᴍɪɴɢ ᴡɪʟʟ ғᴏʀᴄᴇ ᴍᴇ ᴛᴏ ʙʟᴏᴄᴋ ʏᴏᴜ ғʀᴏᴍ ᴍʏ ᴏᴡɴᴇʀ ɪᴅ.**")
+PM_GUARD_TEXT = getenv("PM_GUARD_TEXT", "**🍁 Hᴇʏ, I ᴀᴍ ᴀɴ ᴀᴅᴠᴀɴᴄᴇ & sᴜᴘᴇʀғᴀsᴛ ʜɪɢʜ ǫᴜᴀʟɪᴛʏ ᴜsᴇʀʙᴏᴛ.\n\n🌿 I ᴄᴀɴ'ᴛ ʟᴇᴛ ʏᴏᴜ ᴍᴇssᴀɢᴇ ᴍʏ ᴏᴡɴᴇʀ's ᴅᴍ ᴡɪᴛʜᴏᴜᴛ ᴍʏ ᴏᴡɴᴇʀ's ᴘᴇʀᴍɪssɪᴏɴ.\n\n🌺 Mʏ ᴏᴡɴᴇʀ ɪs ᴏғғʟɪɴᴇ ɴᴏᴡ, ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ ᴜɴᴛɪʟ ᴍʏ ᴏᴡɴᴇʀ ᴀʟʟᴏᴡs ʏᴏᴜ.\n\n🍂 ᴘʟᴇᴀsᴇ ᴅᴏɴ'ᴛ sᴘᴀᴍ ʜᴇʀᴇ, ʙᴇᴄᴀᴜsᴇ sᴘᴀᴍᴍɪɴɢ ᴡɪʟʟ ғᴏʀᴄᴇ ᴍᴇ ᴛᴏ ʙʟᴏᴄᴋ ʏᴏᴜ ғʀᴏᴍ ᴍʏ ᴏᴡɴᴇʀ ɪᴅ.**")
 PM_GUARD_LIMIT = int(getenv("PM_GUARD_LIMIT", 5))
 
 
