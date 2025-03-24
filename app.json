@@ -27,13 +27,13 @@
             "required": true
         },
         "STRING_SESSION": {
-            "description": "Enter your pyrogram v2 string session here @BRANDEDSTRINGSESSION_BOT.",
+            "description": "Enter your pyrogram v2 string session here",
             "value": "",
             "required": true
         },
         "MONGO_DB_URL": {
             "description": "Enter your mongodb url here.",
-            "value": "mongodb+srv://BrandedSupportGroup:BRANDED_WORLD@cluster0.v4odcq9.mongodb.net/?retryWrites=true&w=majority",
+            "value": "",
             "required": true
         },
         "LOG_GROUP_ID": {
